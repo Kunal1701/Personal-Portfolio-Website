@@ -1,0 +1,29 @@
+.blogs {
+  margin-top: 50px;
+  margin-left: 20px;
+}
+h1 {
+  margin: 30px;
+}
+.readmore {
+  padding: 7px;
+  border-radius: 20px;
+  background-color: rgb(55, 55, 185);
+  color: white;
+}
+.readmore:hover {
+  cursor: pointer;
+  background-color: white;
+  color: rgb(55, 55, 185);
+}
+.blog {
+  margin: 20px;
+  padding: 10px;
+}
+.blog p {
+  font-weight: lighter;
+  margin-bottom: 10px;
+}
+.blog h3 {
+  margin-bottom: 5px;
+}
